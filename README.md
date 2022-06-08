@@ -30,10 +30,10 @@
 } 
 </pre>
 
-# 해피니스 산스 타이틀체(HappinessSans)
+# 해피니스 산스 타이틀체(HappinessSansTitle)
 
 <a href="https://wess.tistory.com" target="_blank">
-    <img src="https://webfontworld.github.io/hyundai/HappinessSans.jpg" alt="HappinessSans" style="width:300px">
+    <img src="https://webfontworld.github.io/hyundai/HappinessSansTitle.jpg" alt="HappinessSansTitle" style="width:300px">
 </a>
 <pre>
 @font-face {
